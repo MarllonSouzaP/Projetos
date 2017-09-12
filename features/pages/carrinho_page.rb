@@ -9,9 +9,7 @@ module UI
 
             def click_carrinho 
                 click_on 'Continuar Compras'
-            end    
-         
-      
+            end        
         end
     end
 end
